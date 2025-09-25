@@ -1,6 +1,6 @@
 ## Hi, I'm Andrew Warrington 👋
 
-Boston, MA · andrewwarrington45@gmail.com · [GitHub](https://github.com/AndrewWarrington33) · [LinkedIn](https://linkedin.com/in/andrew-warrington) · [ORCID](https://orcid.org/0009-0009-4830-5683) · [Website/CV](https://andrewwarrington33.github.io/cv/)
+Boston, MA · andrew.warrington.research+gtihub@gmail.com · [GitHub](https://github.com/AndrewWarrington33) · [LinkedIn](https://linkedin.com/in/andrew-warrington) · [ORCID](https://orcid.org/0009-0009-4830-5683) · [Website/CV](https://andrewwarrington33.github.io/cv/)
 
 ### Current
 - Research Assistant II, Artificial Intelligence in Medicine (AIM) Lab @ Brigham & Women's Hospital (Oct 2024–Present)
