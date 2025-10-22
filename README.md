@@ -13,7 +13,7 @@ Boston, MA · [Email](mailto:andrew.warrington.research+github@gmail.com) · [Gi
 Born and raised in Northern Virginia; B.S. Biology & Psychology from the University of Virginia. Now in Boston working as a Research Assistant II in the AIM Lab at Brigham and Women's Hospital.
 
 ### Research interests
-PhD-aimed interests in Biostatistics or Computational Biology. Focus areas: aging biomarkers, survival modeling, computer vision (Vision Transformers), statistical genetics/GWAS, and AI for clinical phenotyping.
+PhD-aimed interests in Computational Biology. Focus areas: aging biomarkers, survival modeling, computer vision (Vision Transformers), statistical genetics/GWAS, and AI for clinical phenotyping.
 
 ### Skills
 - Programming & Data: Python (pandas, numpy, scikit-learn), R, C++, PyTorch, CUDA, Docker, Git, Linux
