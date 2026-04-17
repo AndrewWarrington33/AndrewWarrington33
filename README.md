@@ -3,7 +3,6 @@
 Boston, MA · [Email](mailto:andrew.warrington.research+github@gmail.com) · [GitHub](https://github.com/AndrewWarrington33) · [LinkedIn](https://linkedin.com/in/andrew-warrington) · [ORCID](https://orcid.org/0009-0009-4830-5683) · [Website/CV](https://andrewwarrington33.github.io/cv/)
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=AndrewWarrington33&show_icons=true&hide_border=true&count_private=true&theme=default" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndrewWarrington33&layout=compact&hide_border=true&theme=default" />
 </p>
 
