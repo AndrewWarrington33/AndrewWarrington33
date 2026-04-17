@@ -1,6 +1,6 @@
 ## Hi, I'm Andrew Warrington
 
-Boston, MA · [Email](mailto:andrew.warrington.research+github@gmail.com) · [GitHub](https://github.com/AndrewWarrington33) · [LinkedIn](https://linkedin.com/in/andrew-warrington) · [ORCID](https://orcid.org/0009-0009-4830-5683) · [Website/CV](https://andrewwarrington33.github.io/cv/)
+Boston, MA · [Email](mailto:andrew.warrington.research+github@gmail.com) · [GitHub](https://github.com/AndrewWarrington33) · [LinkedIn](https://linkedin.com/in/andrew-warrington) · [ORCID](https://orcid.org/0009-0009-4830-5683) · [Website/CV](https://andrewwarrington33.github.io/cv/) · [Google Scholar](https://scholar.google.com/citations?user=ijSPbT0AAAAJ&hl=en)
 
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndrewWarrington33&layout=compact&hide_border=true&theme=default" />
