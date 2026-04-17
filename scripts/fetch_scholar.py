@@ -1,11 +1,11 @@
+import os
 import re
-import sys
 from scholarly import scholarly, ProxyGenerator
 
 SCHOLAR_ID = "ijSPbT0AAAAJ"
 
 pg = ProxyGenerator()
-pg.FreeProxies()
+pg.ScraperAPI(os.environ["SCRAPER_API_KEY"])
 scholarly.use_proxy(pg)
 README_PATH = "README.md"
 START_MARKER = "<!-- SCHOLAR-START -->"

@@ -22,6 +22,8 @@ jobs:
 
       - name: Fetch publications
         run: python scripts/fetch_scholar.py
+        env:
+          SCRAPER_API_KEY: ${{ secrets.SCRAPER_API_KEY }}
 
       - name: Commit changes
         uses: stefanzweifel/git-auto-commit-action@v5
