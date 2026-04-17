@@ -20,6 +20,9 @@ jobs:
       - name: Install dependencies
         run: pip install scholarly "httpx<0.28.0"
 
+      - name: Sync with remote
+        run: git pull --rebase origin main
+
       - name: Fetch publications
         run: python scripts/fetch_scholar.py
         env:
