@@ -9,7 +9,7 @@ END_MARKER = "<!-- SCHOLAR-END -->"
 
 
 def fetch_publications():
-    author = scholarly.search_author_by_id(SCHOLAR_ID)
+    author = scholarly.search_author_id(SCHOLAR_ID)
     author = scholarly.fill(author, sections=["publications"])
 
     pubs = []
