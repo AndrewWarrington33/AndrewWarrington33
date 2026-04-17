@@ -33,3 +33,4 @@ jobs:
         with:
           commit_message: 'chore: update Google Scholar publications'
           file_pattern: README.md
+          push_options: '--force-with-lease'
