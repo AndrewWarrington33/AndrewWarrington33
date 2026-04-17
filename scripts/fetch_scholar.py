@@ -1,6 +1,6 @@
 import os
 import re
-from scholarly import scholarly, ProxyGenerator
+from scholarly import scholarly, ProxyGenerator # type: ignore
 
 SCHOLAR_ID = "ijSPbT0AAAAJ"
 
