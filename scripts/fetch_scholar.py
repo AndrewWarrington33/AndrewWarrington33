@@ -1,8 +1,12 @@
 import re
 import sys
-from scholarly import scholarly
+from scholarly import scholarly, ProxyGenerator
 
 SCHOLAR_ID = "ijSPbT0AAAAJ"
+
+pg = ProxyGenerator()
+pg.FreeProxies()
+scholarly.use_proxy(pg)
 README_PATH = "README.md"
 START_MARKER = "<!-- SCHOLAR-START -->"
 END_MARKER = "<!-- SCHOLAR-END -->"
