@@ -2,6 +2,11 @@
 
 Boston, MA · [Email](mailto:andrew.warrington.research+github@gmail.com) · [GitHub](https://github.com/AndrewWarrington33) · [LinkedIn](https://linkedin.com/in/andrew-warrington) · [ORCID](https://orcid.org/0009-0009-4830-5683) · [Website/CV](https://andrewwarrington33.github.io/cv/)
 
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=AndrewWarrington33&show_icons=true&hide_border=true&count_private=true&theme=default" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndrewWarrington33&layout=compact&hide_border=true&theme=default" />
+</p>
+
 ### Current
 - Research Assistant II, Artificial Intelligence in Medicine (AIM) Lab @ Brigham & Women's Hospital (Oct 2024–Present)
 - AI facial biomarkers (FaceAge, FacePhenoAge, FaceSurvival), large-scale genomic/clinical analyses, secure Flask apps, Dockerized pipelines, REDCap/Dropbox automation, IRB operations
@@ -29,5 +34,10 @@ PhD-aimed interests in Computational Biology. Focus areas: aging biomarkers, sur
 ### Hobbies
 Reading, running, lifting weights, and cooking. Big fan of film—especially Denis Villeneuve.
 
+### Publications
+
+<!-- SCHOLAR-START -->
+<!-- SCHOLAR-END -->
+
 ### More
-- Publications, talks, and full CV: [andrewwarrington33.github.io/cv](https://andrewwarrington33.github.io/cv/)
+- Full CV [andrewwarrington33.github.io/cv](https://andrewwarrington33.github.io/cv/)
