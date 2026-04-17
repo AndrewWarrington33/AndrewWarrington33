@@ -36,6 +36,11 @@ Reading, running, lifting weights, and cooking. Big fan of film—especially Den
 ### Publications
 
 <!-- SCHOLAR-START -->
+- [Cardiac risk, outcomes, and management among older adults with stage I-II non-small cell lung cancer undergoing stereotactic body radiation therapy](https://scholar.google.com/citations?view_op=view_citation&user=ijSPbT0AAAAJ&citation_for_view=ijSPbT0AAAAJ:2osOgNQ5qMEC) · (2026)
+- [An agentic AI system enhances clinical detection of immunotherapy toxicities: a multi-phase validation study](https://scholar.google.com/citations?view_op=view_citation&user=ijSPbT0AAAAJ&citation_for_view=ijSPbT0AAAAJ:u-x6o8ySG0sC) · (2026)
+- [Foundation Artificial Intelligence Models for Health Recognition Using Face Photographs (FAHR-Face)](https://scholar.google.com/citations?view_op=view_citation&user=ijSPbT0AAAAJ&citation_for_view=ijSPbT0AAAAJ:d1gkVwhDpl0C) · (2025) · 2 citations
+- [Cardiac Risk, Outcomes, and Management among Older Adults with Stage I-II NSCLC Undergoing Stereotactic Body Radiation Therapy](https://scholar.google.com/citations?view_op=view_citation&user=ijSPbT0AAAAJ&citation_for_view=ijSPbT0AAAAJ:9yKSN-GCB0IC) · (2025)
+- [Association of Pulmonary Artery Radiation with Pulmonary Hypertension after Lung Cancer Radiotherapy](https://scholar.google.com/citations?view_op=view_citation&user=ijSPbT0AAAAJ&citation_for_view=ijSPbT0AAAAJ:u5HHmVD_uO8C)
 <!-- SCHOLAR-END -->
 
 ### More
