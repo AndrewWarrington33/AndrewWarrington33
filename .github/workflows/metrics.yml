@@ -1,0 +1,35 @@
+name: Update language stats SVG
+
+on:
+  schedule:
+    - cron: '0 6 * * 1'  # Every Monday at 6am UTC (matches Scholar workflow)
+  workflow_dispatch:
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          # Fine-grained or classic PAT with read:user + public_repo scopes.
+          # Add via Settings → Secrets and variables → Actions → New repository secret.
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: AndrewWarrington33
+
+          # Disable the default header — render only the languages card.
+          base: ""
+          template: classic
+          filename: metrics.languages.svg
+
+          # Languages plugin: most-used breakdown across your repos.
+          plugin_languages: yes
+          plugin_languages_indepth: yes
+          plugin_languages_details: percentage
+          plugin_languages_limit: 8
+          plugin_languages_ignored: tex, html, css, jupyter notebook
+          plugin_languages_sections: most-used
+
+          # Commit the regenerated SVG back to main.
+          committer_message: 'chore: update language stats SVG'
