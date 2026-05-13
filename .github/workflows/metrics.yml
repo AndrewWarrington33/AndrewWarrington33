@@ -18,6 +18,13 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           user: AndrewWarrington33
 
+          # Match commits authored under either email so indepth language
+          # analysis counts both noreply and gmail-authored commits.
+          commits_authoring: >-
+            AndrewWarrington33,
+            andrewwarrington45@gmail.com,
+            124113758+AndrewWarrington33@users.noreply.github.com
+
           # Disable the default header — render only the languages card.
           base: ""
           template: classic
