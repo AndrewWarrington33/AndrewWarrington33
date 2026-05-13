@@ -35,7 +35,7 @@ jobs:
           plugin_languages_indepth: yes
           plugin_languages_details: percentage
           plugin_languages_limit: 8
-          plugin_languages_ignored: tex, html, css, jupyter notebook
+          plugin_languages_ignored: tex, html, css, jupyter notebook, javascript
           plugin_languages_sections: most-used
 
           # Commit the regenerated SVG back to main.
