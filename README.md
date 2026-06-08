@@ -36,7 +36,9 @@ Reading, running, lifting weights, and cooking. Big fan of film—especially Den
 ### Publications
 
 <!-- SCHOLAR-START -->
+- [Multimodal modeling of CCI, CCI, FaceAge, thymic health, and OS among older adults with early-stage NSCLC undergoing SBRT.](https://scholar.google.com/citations?view_op=view_citation&user=ijSPbT0AAAAJ&citation_for_view=ijSPbT0AAAAJ:UeHWp8X0CEIC) · (2026)
 - [Cardiac risk, outcomes, and management among older adults with stage I-II non-small cell lung cancer undergoing stereotactic body radiation therapy](https://scholar.google.com/citations?view_op=view_citation&user=ijSPbT0AAAAJ&citation_for_view=ijSPbT0AAAAJ:2osOgNQ5qMEC) · (2026)
+- [Face aging rate quantifies change in biological age to predict cancer outcomes](https://scholar.google.com/citations?view_op=view_citation&user=ijSPbT0AAAAJ&citation_for_view=ijSPbT0AAAAJ:qjMakFHDy7sC) · (2026)
 - [An agentic AI system enhances clinical detection of immunotherapy toxicities: a multi-phase validation study](https://scholar.google.com/citations?view_op=view_citation&user=ijSPbT0AAAAJ&citation_for_view=ijSPbT0AAAAJ:u-x6o8ySG0sC) · (2026)
 - [Foundation Artificial Intelligence Models for Health Recognition Using Face Photographs (FAHR-Face)](https://scholar.google.com/citations?view_op=view_citation&user=ijSPbT0AAAAJ&citation_for_view=ijSPbT0AAAAJ:d1gkVwhDpl0C) · (2025) · 2 citations
 - [Cardiac Risk, Outcomes, and Management among Older Adults with Stage I-II NSCLC Undergoing Stereotactic Body Radiation Therapy](https://scholar.google.com/citations?view_op=view_citation&user=ijSPbT0AAAAJ&citation_for_view=ijSPbT0AAAAJ:9yKSN-GCB0IC) · (2025)
