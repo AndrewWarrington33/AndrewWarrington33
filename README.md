@@ -42,7 +42,7 @@ Reading, running, lifting weights, and cooking. Big fan of film—especially Den
 - [An agentic AI system enhances clinical detection of immunotherapy toxicities: a multi-phase validation study](https://scholar.google.com/citations?view_op=view_citation&user=ijSPbT0AAAAJ&citation_for_view=ijSPbT0AAAAJ:u-x6o8ySG0sC) · (2026)
 - [Foundation Artificial Intelligence Models for Health Recognition Using Face Photographs (FAHR-Face)](https://scholar.google.com/citations?view_op=view_citation&user=ijSPbT0AAAAJ&citation_for_view=ijSPbT0AAAAJ:d1gkVwhDpl0C) · (2025) · 2 citations
 - [Cardiac Risk, Outcomes, and Management among Older Adults with Stage I-II NSCLC Undergoing Stereotactic Body Radiation Therapy](https://scholar.google.com/citations?view_op=view_citation&user=ijSPbT0AAAAJ&citation_for_view=ijSPbT0AAAAJ:9yKSN-GCB0IC) · (2025)
-- [Association of Pulmonary Artery Radiation with Pulmonary Hypertension after Lung Cancer Radiotherapy](https://scholar.google.com/citations?view_op=view_citation&user=ijSPbT0AAAAJ&citation_for_view=ijSPbT0AAAAJ:u5HHmVD_uO8C) · 1 citations
+- [Association of pulmonary artery radiation with pulmonary hypertension after lung cancer radiotherapy](https://scholar.google.com/citations?view_op=view_citation&user=ijSPbT0AAAAJ&citation_for_view=ijSPbT0AAAAJ:u5HHmVD_uO8C) · 1 citations
 <!-- SCHOLAR-END -->
 
 ### More
